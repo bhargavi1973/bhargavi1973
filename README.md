@@ -18,7 +18,7 @@
 - **Private Repos**: ![Private Repos](https://img.shields.io/badge/Private%20Repos-5-red)
 - **Gists**: ![Gists](https://img.shields.io/badge/Gists-7-yellow)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavi1973) or check out my website [Bhargavi's Portfolio](https://bhargavi1973.github.io).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavi-kanojia-245986280/) o
 
 ## 📫 How to reach me:
 - Email: bhargavikanojia@gmail.com
