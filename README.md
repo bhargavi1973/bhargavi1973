@@ -4,7 +4,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi1973&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1973&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1973&theme=radical)
+
+### Language Breakdown:
+- **Python**: 45%
+- **JavaScript**: 25%
+- **Java**: 15%
+- **C++**: 10%
 
 ## Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi1973&theme=radical)
