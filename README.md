@@ -1,14 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Bhargavi! 👋
 
-# GitHub Statistics and Metrics
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavi1973&show_icons=true&theme=radical)
 
-![Stats Card](https://github-readme-stats.vercel.app/api?username=bhargavi1973&show_icons=true&theme=radical)
-![Contribution Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=bhargavi1973&theme=dark)
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1973&layout=compact&theme=dark)
-![Activity Indicators](https://github-readme-activity-graph.cyclic.app/graph?username=bhargavi1973&theme=react)
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi1973&layout=compact&theme=radical)
 
+## Contribution Streak
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi1973&theme=radical)
 
+## Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhargavi1973&theme=react-dark)
 
+## Metrics
+- **Followers**: [![Followers](https://img.shields.io/github/followers/bhargavi1973?label=Follow&style=social)](https://github.com/bhargavi1973)
+- **Public Repos**: ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
+- **Private Repos**: ![Private Repos](https://img.shields.io/badge/Private%20Repos-5-red)
+- **Gists**: ![Gists](https://img.shields.io/badge/Gists-7-yellow)
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavi1973) or check out my website [Bhargavi's Portfolio](https://bhargavi1973.github.io).
+
+## 📫 How to reach me:
+- Email: bhargavikanojia@gmail.com
+
+Thanks for visiting my profile! 😊
 <!--
 **bhargavi1973/bhargavi1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
