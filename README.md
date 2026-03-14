@@ -10,7 +10,7 @@
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi1973&theme=radical)
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhargavi1973&theme=react-dark)
+![GitHub Activity Graph](https://github.com/).
 
 ## Metrics
 - **Followers**: [![Followers](https://img.shields.io/github/followers/bhargavi1973?label=Follow&style=social)](https://github.com/bhargavi1973)
