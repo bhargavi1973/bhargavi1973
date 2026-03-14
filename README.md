@@ -9,9 +9,6 @@
 ## Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi1973&theme=radical)
 
-## Activity Graph
-![GitHub Activity Graph](https://github.com/).
-
 ## Metrics
 - **Followers**: [![Followers](https://img.shields.io/github/followers/bhargavi1973?label=Follow&style=social)](https://github.com/bhargavi1973)
 - **Public Repos**: ![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
