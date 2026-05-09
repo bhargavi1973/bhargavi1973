@@ -1,5 +1,5 @@
-# 💫 About Me:
-- **Artificial Intelligence & Data Science Undergrad'27**
+# 💫 About Me:|
+**Artificial Intelligence & Data Science Undergrad'27** || International Published Author'25 (Taylor&Francis AIS2C2) || Google Big Code'26 Round2 Qualifier || Winner of Prompt-a-thon || AI-ML Researcher
 
 
 
