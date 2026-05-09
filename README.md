@@ -1,4 +1,4 @@
-## Hi there:
+## Hi there!!
 Artificial Intelligence & Data Science Undergrad'27 || International Published Author'25 (Taylor&Francis AIS2C2) || Google Big Code'26 Round2 Qualifier || Winner of Prompt-a-thon by GeeksfirGeeks GCET || AI-ML Researcher || Operations Lead at HackBase (Leading tech Community at GCET) || Editorial Lead at DataVerse ( Dept. society of Data Science Dept.)
 
 
