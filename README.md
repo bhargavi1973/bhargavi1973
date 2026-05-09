@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🎓**Artificial Intelligence & Data Science Undergrad'27**
-- I enjoy building AI systems that combine research ideas with practical deployment.<br>
+- **Artificial Intelligence & Data Science Undergrad'27**
+
 
 
 ## 🌐 Socials:
